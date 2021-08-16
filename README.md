@@ -99,8 +99,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 10. Run the Server.
 
-## How can I support the developer ?
 
-- Star my Github repo ⭐
-- Create pull requests, submit bugs, suggest new features or documentation updates 🛠
 
